@@ -1,0 +1,11 @@
+.imageWrap {
+    display: inline-block;
+    margin: 0 10px;
+}
+.imageWrap img {
+    display: block;
+}
+.imageWrap span {
+    display: block;
+    text-align: center;
+}
